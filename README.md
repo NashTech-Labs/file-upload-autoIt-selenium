@@ -14,9 +14,9 @@ AutoIt is a scripting language implemented for windows GUI automation. Using the
 * Run the Selenium Script.
 
 ## AutoItScript
-  ControlFocus("Open","","Edit1")
-  ControlSetText("Open","","Edit1","C:\Users\PrajjawalK\Music\check\visit.pdf")
-  ControlClick("Open","","Button1")
+    ControlFocus("Open","","Edit1")
+    ControlSetText("Open","","Edit1","C:\Users\PrajjawalK\Music\check\visit.pdf")
+    ControlClick("Open","","Button1")
   
 ## Execution Steps
 * Complete the installation of AutoIT
