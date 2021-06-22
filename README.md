@@ -23,3 +23,5 @@ AutoIt is a scripting language implemented for windows GUI automation. Using the
 * Add the AutoIT script in SciTE application.
 * Clone the Repo.
 * Run the selenium script in window machine.
+
+For better understading, please refer to the blog https://blog.knoldus.com/uploading-downloading-files-in-selenium-using-autoit/
